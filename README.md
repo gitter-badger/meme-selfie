@@ -1,5 +1,7 @@
 # Poseidon
 
+[![Join the chat at https://gitter.im/sherylpeebee/meme-selfie](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/sherylpeebee/meme-selfie?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 #### Setup
 ```
 git clone https://github.com/coding-house-apr2015/poseidon my-app
